@@ -1,0 +1,24 @@
+These should work
+https://www.edureka.co/python/training
+https://www.develop.com/
+https://www.thinkful.com/python/bootcamp
+https://www.tutorialspoint.com
+https://w3schools.com
+https://www.youtube.com
+https://www.learnpython.org
+https://www.codecademy.com
+http://www.programiz.com
+https://www.bbc.com/news/entertainment-arts-51209197
+https://www.imdb.com/name/nm7758679/
+https://www.netflix.com/title/771476
+https://www.theguardian.com/tv-and-radio/2019/oct/04/monty-python-at-50-a-half-century-of-silly-walks-edible-props-and-dead-parrots
+https://www.nytimes.com/2020/01/22/arts/television/terry-jones-dead.html
+https://en.wikipedia.org/wiki/List_of_Monty_Python_projects
+https://screenrant.com/monty-python-ranked-imdb/
+https://www.youtube.com/watch?v=4nZ9gNGZwO0
+
+These should NOT work
+https//www.theguardian.com/film/filmblog/2014/jun/04/monty-python-films-movies-best-to-worst-cleese-jones-gilliam-idle (missing :)
+https:/www.amazon.com/Monty-Python-Trinity-Pythons-Meaning/dp/B001E12ZAM (missing a /)
+https://www/.youtube.com/watch?v=XCnK3B7Ftow (extra /)
+
