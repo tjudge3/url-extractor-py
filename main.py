@@ -1,5 +1,4 @@
-#In this assignment we were given a file, told to parse it, use regex to find the correct URLS, output them and save them to a file if the user wanted to
-#It was one of the more enjoyable assignments in the class. 
+#This was a project to parse a URL list and validate
 import re, os #we import regular expression and os (for deletion)
 regex = re.compile(
         r'^(?:http|ftp)s?://' # http:// or https://
