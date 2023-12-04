@@ -23,5 +23,4 @@ if do_save=='y':#If they answer in the affirmative 'y' we process the code below
       quit() #we quit the program 
 else: #if they answer in the negative above 'n' we quit the program
   os.remove("goodurls.txt")#we delete our test doc in case you want to run the program again
-  quit()
-#I don't know if it's fully intentionally, and if it was then one of the URL's here won't work, but the downloaded document urlTestLinks.txt had tabs inserted after w3schools.com on the same line. Took me a good while to figure that out, since physically looking at the file you wouldn't be able to tell. If you need me to revise the regex to try to account for the tabs, let me know.
+  quit() #End it all
